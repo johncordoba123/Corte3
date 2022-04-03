@@ -1,0 +1,12 @@
+C:\Users\johnc\OneDrive\Escritorio\Corte3\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\johnc\OneDrive\Escritorio\Corte3\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\johnc\OneDrive\Escritorio\Corte3\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\johnc\OneDrive\Escritorio\Corte3\CapaDatos\bin\Debug\EntityFramework.dll
+C:\Users\johnc\OneDrive\Escritorio\Corte3\CapaDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\johnc\OneDrive\Escritorio\Corte3\CapaDatos\bin\Debug\EntityFramework.xml
+C:\Users\johnc\OneDrive\Escritorio\Corte3\CapaDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\johnc\OneDrive\Escritorio\Corte3\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\johnc\OneDrive\Escritorio\Corte3\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\johnc\OneDrive\Escritorio\Corte3\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\johnc\OneDrive\Escritorio\Corte3\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\johnc\OneDrive\Escritorio\Corte3\CapaDatos\obj\Debug\CapaDatos.pdb

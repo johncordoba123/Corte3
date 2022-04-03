@@ -1,0 +1,15 @@
+C:\Users\johnc\OneDrive\Escritorio\Corte3\CapaLogica\bin\Debug\CapaLogica.dll.config
+C:\Users\johnc\OneDrive\Escritorio\Corte3\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\johnc\OneDrive\Escritorio\Corte3\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\johnc\OneDrive\Escritorio\Corte3\CapaLogica\bin\Debug\EntityFramework.dll
+C:\Users\johnc\OneDrive\Escritorio\Corte3\CapaLogica\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\johnc\OneDrive\Escritorio\Corte3\CapaLogica\bin\Debug\EntityFramework.xml
+C:\Users\johnc\OneDrive\Escritorio\Corte3\CapaLogica\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\johnc\OneDrive\Escritorio\Corte3\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\johnc\OneDrive\Escritorio\Corte3\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\johnc\OneDrive\Escritorio\Corte3\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\johnc\OneDrive\Escritorio\Corte3\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\johnc\OneDrive\Escritorio\Corte3\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\johnc\OneDrive\Escritorio\Corte3\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\johnc\OneDrive\Escritorio\Corte3\CapaLogica\bin\Debug\CapaDatos.dll.config
+C:\Users\johnc\OneDrive\Escritorio\Corte3\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
