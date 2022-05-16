@@ -7,21 +7,22 @@ using System.Threading.Tasks;
 
 namespace CapaLogica
 {
-   public class Datos
+    public class Datos
     {
-       public static List<ListadoDatos> Obtener()
-       {
-           using (VentasJuegosEntities db = new VentasJuegosEntities())
-           {
-               return  (from b in db.datos
+        public static List<ListadoDatos> Obtener()
+        {
+            using (VentasJuegosEntities db = new VentasJuegosEntities())
+            {
+                return (from b in db.datos
                         select new ListadoDatos()
-                       {
-                           Id = b.Id,
-                           Producto= b.Producto,
-                           Stock = b.Stock,
-                           valor = b.valor,
-                           fk_usuarios = b.fk_usuarios
+                        {
+                            Id = b.Id,
+                            Producto = b.Producto,
+                            Stock = b.Stock,
+                            valor = b.valor,
+                            fk_usuarios = b.fk_usuarios
                         }).ToList();
+
             }
         }
     }

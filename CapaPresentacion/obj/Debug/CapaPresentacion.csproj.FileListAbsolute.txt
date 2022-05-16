@@ -22,3 +22,8 @@ C:\Users\johnc\OneDrive\Escritorio\Corte3\CapaPresentacion\bin\Debug\EntityFrame
 C:\Users\johnc\OneDrive\Escritorio\Corte3\CapaPresentacion\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\johnc\OneDrive\Escritorio\Corte3\CapaPresentacion\obj\Debug\CapaPresentacion.RegistroDatos.resources
 C:\Users\johnc\OneDrive\Escritorio\Corte3\CapaPresentacion\obj\Debug\CapaPresentacion.RegistroUsuarios.resources
+C:\Users\johnc\OneDrive\Escritorio\Corte3\CapaPresentacion\obj\Debug\CapaPresentacion.HacerFiltro.resources
+C:\Users\johnc\OneDrive\Escritorio\Corte3\CapaPresentacion\obj\Debug\CapaPresentacion.Productos.resources
+C:\Users\johnc\OneDrive\Escritorio\Corte3\CapaPresentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\johnc\OneDrive\Escritorio\Corte3\CapaPresentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\johnc\OneDrive\Escritorio\Corte3\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache

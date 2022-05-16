@@ -43,7 +43,8 @@ namespace CapaPresentacion
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Consolas", 15.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+            this.label1.Font = new System.Drawing.Font("Consolas", 15.75F, System.Drawing.FontStyle.Bold);
+            this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(156)))), ((int)(((byte)(149)))));
             this.label1.Location = new System.Drawing.Point(186, 148);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(190, 24);
@@ -53,7 +54,8 @@ namespace CapaPresentacion
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Consolas", 15.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+            this.label2.Font = new System.Drawing.Font("Consolas", 15.75F, System.Drawing.FontStyle.Bold);
+            this.label2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(156)))), ((int)(((byte)(149)))));
             this.label2.Location = new System.Drawing.Point(186, 190);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(178, 24);
@@ -63,7 +65,8 @@ namespace CapaPresentacion
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Consolas", 15.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+            this.label3.Font = new System.Drawing.Font("Consolas", 15.75F, System.Drawing.FontStyle.Bold);
+            this.label3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(156)))), ((int)(((byte)(149)))));
             this.label3.Location = new System.Drawing.Point(186, 239);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(130, 24);
@@ -73,7 +76,8 @@ namespace CapaPresentacion
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Font = new System.Drawing.Font("Consolas", 15.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+            this.label4.Font = new System.Drawing.Font("Consolas", 15.75F, System.Drawing.FontStyle.Bold);
+            this.label4.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(156)))), ((int)(((byte)(149)))));
             this.label4.Location = new System.Drawing.Point(186, 284);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(238, 24);
@@ -110,11 +114,13 @@ namespace CapaPresentacion
             // 
             // btnRegistarse
             // 
-            this.btnRegistarse.Font = new System.Drawing.Font("Consolas", 15.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
-            this.btnRegistarse.Location = new System.Drawing.Point(338, 361);
+            this.btnRegistarse.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnRegistarse.Font = new System.Drawing.Font("Consolas", 9.75F, System.Drawing.FontStyle.Bold);
+            this.btnRegistarse.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(156)))), ((int)(((byte)(149)))));
+            this.btnRegistarse.Location = new System.Drawing.Point(368, 360);
             this.btnRegistarse.Name = "btnRegistarse";
-            this.btnRegistarse.Size = new System.Drawing.Size(160, 67);
-            this.btnRegistarse.TabIndex = 9;
+            this.btnRegistarse.Size = new System.Drawing.Size(186, 42);
+            this.btnRegistarse.TabIndex = 17;
             this.btnRegistarse.Text = "Registrarse";
             this.btnRegistarse.UseVisualStyleBackColor = true;
             this.btnRegistarse.Click += new System.EventHandler(this.btnRegistarse_Click);
@@ -123,7 +129,8 @@ namespace CapaPresentacion
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(877, 543);
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
+            this.ClientSize = new System.Drawing.Size(935, 538);
             this.Controls.Add(this.btnRegistarse);
             this.Controls.Add(this.txtRol);
             this.Controls.Add(this.txtContraseña);
@@ -133,8 +140,11 @@ namespace CapaPresentacion
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
             this.Name = "RegistroUsuarios";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "RegistroUsuarios";
+            
             this.ResumeLayout(false);
             this.PerformLayout();
 

@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Security.Cryptography;
+using System.Runtime.InteropServices;
 
 namespace CapaPresentacion
 {
@@ -17,7 +18,7 @@ namespace CapaPresentacion
         {
             InitializeComponent();
         }
-
+        
         private void btnRegistarse_Click(object sender, EventArgs e)
         {
             using (CapaDatos.VentasJuegosEntities db = new CapaDatos.VentasJuegosEntities())
